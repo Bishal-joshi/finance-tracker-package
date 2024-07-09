@@ -1,0 +1,16 @@
+{
+  "name": "finance_tracker",
+  "version": "1.0.0",
+  "description": "A package for finance tracker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.index.js",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Bishal Joshi",
+  "license": "ISC"
+}
